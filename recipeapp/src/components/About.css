@@ -1,0 +1,88 @@
+.about-container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #ffffff; /* Warm cream background */
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', sans-serif;
+  color: #eaeaea; /* Dark brown text for contrast */
+}
+
+.about-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #5a3920; /* Vibrant orange for title */
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.about-description {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  margin-bottom: 30px;
+  color: #5d4037; /* Medium brown for body text */
+}
+
+.highlight {
+  font-weight: bold;
+  color: #ff6600; /* Bright orange for emphasis */
+  text-decoration: underline;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  color: #bf360c; /* Deep orange for sections */
+  margin-bottom: 10px;
+  border-bottom: 2px solid #ffcc80; /* Light orange underline */
+}
+
+.features-list {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 30px;
+}
+
+.features-list li {
+  background: #ffddddb1; /* Light peach background for list items */
+  padding: 12px 15px;
+  margin: 8px 0;
+  border-radius: 10px;
+  color: #000000;
+  transition: transform 0.3s ease;
+}
+
+.features-list li:hover {
+  transform: scale(1.02); /* Slight zoom on hover for interactivity */
+}
+
+.call-to-action {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #5d4037;
+  margin-bottom: 20px;
+  background: #ffe0b2; /* Soft orange background */
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.action-link {
+  color: #ff5722; /* Vibrant orange link */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.action-link:hover {
+  text-decoration: underline;
+  color: #ff8f00;
+}
+
+.about-footer {
+  text-align: center;
+  font-style: italic;
+  color: #6d4c41; /* Warm brown for footer */
+  font-size: 0.9rem;
+  border-top: 1px solid #d7ccc8; /* Light border for separation */
+  padding-top: 10px;
+}

@@ -1,0 +1,20 @@
+.recipe-list-container {
+  background-image: url('path/to/home-background-image.jpg'); /* Replace with the actual path to the home page background image */
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  transition: background-image 1s ease-in-out; /* Transition effect for background image change */
+  padding: 20px;
+}
+
+.recipe-list-container .MuiTypography-root {
+  color: white; /* Ensure text is visible against the dark background */
+}
+
+.recipe-list-container .MuiCircularProgress-root {
+  color: white; /* Ensure loading spinner is visible */
+}
+
+.recipe-list-container .MuiTypography-colorError {
+  color: #f44336; /* Ensure error text is visible */
+}

@@ -1,0 +1,49 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #da7e7e; /* Pinkish background from the second design */
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+.navbar-logo a {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  text-decoration: none;
+}
+
+.navbar-links {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.navbar-links li a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.navbar-links li a:hover {
+  color: #FFECB3; /* Hover effect */
+}
+
+.add-recipe-btn {
+  padding: 8px 16px;
+  background-color: transparent;
+  border: 2px solid #333;
+  border-radius: 20px;
+  color: #333;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.add-recipe-btn:hover {
+  background-color: #333;
+  color: #f0f0f0;
+}
