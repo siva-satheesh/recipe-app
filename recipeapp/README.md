@@ -1,12 +1,22 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🍽️ Recipe App
 
-Currently, two official plugins are available:
+A simple and user-friendly recipe application built using the MERN stack.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- Browse and explore recipes.
+- Clean and responsive user interface.
+- Easy recipe discovery.
+- Full-stack application using MongoDB, Express.js, React, and Node.js.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend:** React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Purpose
+Built to explore full-stack web development and gain practical experience with the MERN stack.
+
+## 👨‍💻 Developer
+Developed as a personal full-stack development project.
+
