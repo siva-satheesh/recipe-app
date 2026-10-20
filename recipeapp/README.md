@@ -18,5 +18,5 @@ A simple and user-friendly recipe application built using the MERN stack.
 Built to explore full-stack web development and gain practical experience with the MERN stack.
 
 ## 👨‍💻 Developer
-Developed as a personal full-stack development project.
+Developed as a group full-stack development project.
 
